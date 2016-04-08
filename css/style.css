@@ -1,0 +1,21 @@
+.btn {
+    opacity: 0.7;
+    height: 30px;
+    width: 50px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#focus-trigger-button {
+    background-color: black;
+    color: white;
+}
+
+#reverse-back-button {
+    background-color: white;
+    color: black;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
